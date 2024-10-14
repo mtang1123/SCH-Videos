@@ -1,0 +1,8 @@
+button {
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #e5533d; /* Darker shade on hover */
+  }
+  
